@@ -251,3 +251,5 @@ void print_winner(void)
     }
     return;
 }
+
+// Very useful reference to clarify how tideman works and get some insights: https://gist.github.com/nicknapoli82/6c5a1706489e70342e9a0a635ae738c9
