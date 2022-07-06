@@ -1,4 +1,4 @@
-I'm posting my solutions to Harvard's CS50 Assignments.
+I'm posting my solutions to Introduction to Computer Science (Harvard's CS50) Assignments.
 
 Make sure you have completed your own assignment before looking other's answers as it might break the academic honesty.
 
